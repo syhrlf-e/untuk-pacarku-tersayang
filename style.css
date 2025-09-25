@@ -51,11 +51,13 @@ img {
   color: white;
   transform-origin: center center;
   width: 400px;
+  font-size: 40px;
 }
 .ga {
   background: #444;
   color: white;
   width: 400px;
+  font-size: 40px;
 }
 
 /* Popup style */

@@ -50,10 +50,12 @@ img {
   background: #ff4d6d;
   color: white;
   transform-origin: center center;
+  width: 400px;
 }
 .ga {
   background: #444;
   color: white;
+  width: 400px;
 }
 
 /* Popup style */

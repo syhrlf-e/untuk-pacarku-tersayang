@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
 body {
   font-family: "Comic Sans MS", cursive, sans-serif;
   text-align: center;
@@ -21,19 +23,17 @@ body {
 h1 {
   margin-top: 30px;
   font-size: 50px;
+  font-family: "Delius Swash Caps", cursive;
 }
 h2 {
   font-size: 40px;
   margin: 20px 0;
   color: #d63384;
-}
-h3 {
-  font-size: 40px;
-  margin-bottom: 20px;
+  font-family: "Delius Swash Caps", cursive;
 }
 
 img {
-  width: 200px;
+  width: 700px;
   margin: 20px 0;
 }
 

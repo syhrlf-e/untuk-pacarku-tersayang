@@ -83,17 +83,17 @@ img {
   animation: popUp 0.5s ease;
 }
 .popup-content img {
-  width: 150px;
+  width: 350px;
 }
 .popup-content h2 {
   margin: 10px 0;
   color: #d63384;
-  font-size: 20px;
+  font-size: 40px;
   font-family: "Delius Swash Caps", cursive;
 }
 .popup-content p {
   text-align: justify;
-  font-size: 14px;
+  font-size: 30px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 

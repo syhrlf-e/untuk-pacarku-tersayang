@@ -86,14 +86,12 @@ img {
 .popup-content img {
   width: 350px;
 }
-.popup-content h2 {
-  margin: 10px 0;
-  color: #d63384;
-  font-size: 40px;
-}
 
 .judulCard {
   font-family: "Delius Swash Caps", cursive;
+  margin: 10px 0;
+  color: #d63384;
+  font-size: 40px;
 }
 .popup-content p {
   text-align: justify;

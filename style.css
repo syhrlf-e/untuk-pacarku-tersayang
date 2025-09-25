@@ -78,7 +78,7 @@ img {
   background: white;
   padding: 20px;
   border-radius: 15px;
-  max-width: 500px;
+  max-width: 80%;
   text-align: center;
   animation: popUp 0.5s ease;
 }
@@ -89,6 +89,7 @@ img {
   margin: 10px 0;
   color: #d63384;
   font-size: 20px;
+  font-family: "Delius Swash Caps", cursive;
 }
 .popup-content p {
   text-align: justify;
